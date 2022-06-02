@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev":"nodemon",
+    "obj":"nodemon ./object.js",
     "spread":"nodemon ./spread.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
